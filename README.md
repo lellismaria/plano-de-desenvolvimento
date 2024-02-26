@@ -16,9 +16,9 @@ Adquirir conhecimentos e habilidades para conseguir desenvolver e implementar so
 
 | 2021 | 2022 | 2022 - 2023 | 2024 |
 |-------------|-------------|-------------|-------------|
-| Finalização do período de Estágio no TJGO | Transição de Carreira | Início na Squad de SRE | Mudança para Comunidade Crédito Pf
-| Estudos para concurso | Início dos estudos em Tecnologia | Mudança para Squad IUTechFinance | Inclusão na Squad Garantidos
-| Início Carreira Jurídica | Estágio em Marketing Cloud | Desenvolvimento na área de Dados |
+| Finalização do período de Estágio no TJGO | Transição de Carreira | Início do período de estágio no Itaú Unibanco | Desenvolvimento em Dados
+| Estudos para concurso | Início dos estudos em Tecnologia | Inclusão na Squad de SRE | Mudança para Comunidade Crédito PF
+| Início Carreira Jurídica | Estágio em Marketing Cloud na Match.MT | Mudança para Squad IUTechFinance | Inclusão na Squad Garantidos
 
 ## 📌 Planos de Ação para Minha Carreira
 
