@@ -20,11 +20,11 @@ Adquirir conhecimentos e habilidades para conseguir desenvolver e implementar so
 | Estudos para concurso | Início dos estudos em Tecnologia | Mudança para Squad IUTechFinance | Inclusão na Squad Garantidos
 | Início Carreira Jurídica | Estágio em Marketing Cloud | Desenvolvimento na área de Dados |
 
-## Planos de Ação para Minha Carreira
+## 📌 Planos de Ação para Minha Carreira
 
 | Data | Check | Ação |
 |-----|------------------|---------------------|
-| 12/2023| [x]              | Bagde Practitioner Hub Dados&Analytics   |
+| 12/2023| ✅              | Bagde Practitioner Hub Dados&Analytics   |
 | 2024| [ ]              | Buscar feedback regularmente dos colegas e supervisores    |
 | 2024| [ ]              | - |
 
