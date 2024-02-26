@@ -25,13 +25,13 @@ Adquirir conhecimentos e habilidades para conseguir desenvolver e implementar so
 | Data | Check | Ação |
 |-----|------------------|---------------------|
 | 12/2023| [x]              | Bagde Practitioner Hub Dados&Analytics   |
-| 2023| [ ]              | -    |
+| 2024| [ ]              | Buscar feedback regularmente dos colegas e supervisores    |
 | 2024| [ ]              | - |
 
 ## 🎯 Objetivos da Minha Carreira
 
 | Metas de Curto Prazo | Metas de Médio Prazo | Metas de Longo Prazo |
 |-------------|-------------|-------------|
-| Obter minha efetivação | - | - |
-| Obter a certificação AWS Certified Developer - Associate | - | - |
+| Obter minha efetivação | Desenvolver habilidades com foco em tarefas específicas relacionadas à análise e visualização de dados | Repassar um pouco do meu conhecimento para outras pessoas |
+| Obter a certificação AWS Certified Developer - Associate | Participar ativamente de pelo menos um projeto envolvendo dados | Conduzir independentemente uma demanda dentro da squad |
 | - | - | - |
