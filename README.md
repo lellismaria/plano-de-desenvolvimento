@@ -20,18 +20,26 @@ Adquirir conhecimentos e habilidades para conseguir desenvolver e implementar so
 | Estudos para concurso | Início dos estudos em Tecnologia | Inclusão na Squad de SRE | Mudança para Comunidade Crédito PF
 | Início Carreira Jurídica | Estágio em Marketing Cloud na Match.MT | Mudança para Squad IUTechFinance | Inclusão na Squad Garantidos
 
+## 💎 Planos de Ação para Minha Vida Pessoal
+
+- [ ] Conseguir finalizar um jogo por mês.
+- [ ] Retomar com as lives na Twitch.
+- [ ] Conseguir fazer uma caminhada de ao menos cinco minutos no meu bairro.
+
+
 ## 📌 Planos de Ação para Minha Carreira
 
 | Data | Check | Ação |
 |-----|------------------|---------------------|
 | 12/2023| ✅              | Bagde Practitioner Hub Dados&Analytics   |
-| 2024| [ ]              | Buscar feedback regularmente dos colegas e supervisores    |
-| 2024| [ ]              | - |
+| 02/2024| [ ]              | Bagde Practitioner Hub Dados&Analytics |
+| 03/2024| [ ]              | Academia SRE |
+| 03/2024| [ ]              | PUC Orquestração com DMPS |
 
 ## 🎯 Objetivos da Minha Carreira
 
 | Metas de Curto Prazo | Metas de Médio Prazo | Metas de Longo Prazo |
 |-------------|-------------|-------------|
-| Obter minha efetivação | Desenvolver habilidades com foco em tarefas específicas relacionadas à análise e visualização de dados | Repassar um pouco do meu conhecimento para outras pessoas |
-| Obter a certificação AWS Certified Developer - Associate | Participar ativamente de pelo menos um projeto envolvendo dados | Conduzir independentemente uma demanda dentro da squad |
-| - | - | - |
+| Obter um nível Jr. até o fim do contrato  | Aprofundar ainda mais em conhecimentos técnicos, aprimorando minhas habilidades e explorando tópicos mais avançados para agregar no dia a dia da equipe | Me tornar uma especialista na área específica que ocorreu minha efetivação |
+| Buscar tirar a certificação Cloud Practitioner da AWS | Conduzir independentemente uma demanda dentro da squad | Desenvolver Conhecimentos em Inteligência Artificial e Machine Learning |
+| Desenvolver habilidades com foco em tarefas específicas relacionadas à análise e visualização de dados | Buscar tirar a certificação Data Engineer - Associate da AWS | Participar de competições envolvendo dados nas plataformas: Kaggle ou DataHack |
